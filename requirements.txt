@@ -1,0 +1,8 @@
+langchain-openai
+langgraph
+pydantic
+docker
+python-dotenv
+colorama
+termcolor
+aiofiles
